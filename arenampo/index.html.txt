@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>ARENAMPO - Situs Slot & RTP Togel 4D Terpercaya</title>
+    <meta name="description" content="ARENAMPO situs slot dan togel 4D terbaik dengan RTP live hari ini. Menang mudah dan terpercaya 2026.">
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<h1>ARENAMPO Situs Slot Gacor 2026</h1>
+
+<p>Selamat datang di ARENAMPO, platform terbaik untuk informasi RTP slot dan togel 4D.</p>
+
+<a href="rtp-slot/index.html">Lihat RTP Slot Hari Ini</a>
+
+</body>
+</html>
